@@ -1,13 +1,23 @@
 Just, for anyone!
 
-Please, feel free to participate! 
+Everyone is invited to brainstorming, support requests and everything else - no bullying here:
 
-Choose and try out a different platforms based on Opencart!
-These are my favorites:
+https://github.com/OCalternative/opencart-alternative
+
+It seems Opencart is doing everything it can, to shut the project down and move away from open-source.
+
+Choose and try out different platforms, which are based on Opencart!
+
+These are my favourites:
 
 * https://github.com/copona/copona
 * https://arastta.org
 * http://www.abantecart.com
 
-Or just another system:
-http://alternativeto.net/software/opencart/
+Some older projects, still active:
+
+* https://github.com/opencart-ce/opencart-ce
+
+Or just, another system: 
+* http://alternativeto.net/software/opencart/
+
